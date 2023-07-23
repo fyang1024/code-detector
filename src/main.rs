@@ -2,7 +2,7 @@
  * You are a detective trying to crack a complex code left by a suspect. The code consists of 8 
  * characters, which can be any combination of uppercase letters, lowercase letters, digits (0-9), 
  * and special symbols (there are 33 special symbols). However, you do not know the order of 
- *the characters. You have collected some information that may help you crack the code:
+ * the characters. You have collected some information that may help you crack the code:
  * • The code does not contain any repeated characters.
  * • The sum of the digits in the code is 20.
  * • The code contains at least one uppercase letter, one lowercase letter, one digit, and one 
